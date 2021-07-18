@@ -1,0 +1,9 @@
+Package: com.jawshoeadan.ytsideloadfix
+Name: YTSideloadFix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Jawshoeadan
+Author: Jawshoeadan
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
